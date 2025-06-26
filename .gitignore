@@ -1,0 +1,6 @@
+# Executable file, compilation result
+my-go-app
+
+# env files
+.env
+.env.*
